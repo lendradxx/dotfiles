@@ -23,3 +23,10 @@
 - Magic Lamp & Wobbly Windows
 - Blur respect rounded corners
 - Overview
+
+## Optional
+
+> Disable SDDM on secondary monitor
+```txt
+xrandr --output HDMI1 --off
+```
