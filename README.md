@@ -1,5 +1,8 @@
 # Requirements
 
+## App switcher
+- MediumRounded
+
 ## Themes
 - Icon: Colloid
 - Themes: Colloid GTK, Plasma & Kvantum
