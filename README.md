@@ -16,3 +16,10 @@
 - Modern Clock (Optional)
 - Latte sidebar button
 - Virtual Desktop Bar
+
+## Desktop Effects & Kwin Scripts
+- Force Blur
+- Slideback
+- Magic Lamp & Wobbly Windows
+- Blur respect rounded corners
+- Overview
