@@ -1,5 +1,10 @@
 # Requirements
 
+## Themes
+- Icon: Colloid
+- Themes: Colloid GTK, Plasma & Kvantum
+- WM: Colloid
+
 ## Widgets
 - OSXLaunchpad
 - Application Title
