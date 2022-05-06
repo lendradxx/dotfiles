@@ -15,3 +15,4 @@
 - Event Calendar
 - Modern Clock (Optional)
 - Latte sidebar button
+- Virtual Desktop Bar
