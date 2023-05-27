@@ -1,0 +1,54 @@
+/* Panel */
+#panel {
+    height: 32px;
+    font-size: 14px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+/* Panel Button */
+.panel-button,
+.clock,
+.clock-display StIcon {
+    border-radius: 8px;
+}
+
+
+/* PopUp Menu */
+.popup-menu-content,
+.candidate-popup-content {
+    border: 1px solid #77767b;
+    box-shadow: 0 0 4px 0px rgba(0, 0, 0, 12.5);
+}
+
+/* Notification */
+.notification-banner {
+    margin-right: 8px;
+    margin-top: 8px;
+    border: 1px solid #77767b;
+    border-radius: 8px;
+    box-shadow: 0 0 4px 0px rgba(0, 0, 0, 12.5);
+}
+
+/* OSD */
+.switcher-list,
+.resize-popup,
+.workspace-switcher,
+.osd-window {
+	/* border: 1px solid rgba(652, 652, 652, 0.07); */
+	border: 1px solid #77767b;
+	border-radius: 8px;
+	/* box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.07); */
+	box-shadow: 0 0 4px 0px rgba(0, 0, 0, 12.5);
+}
+
+.switcher-list {
+	border-radius: 8px;
+}
+
+/* Modal dialog */
+.modal-dialog {
+    border-radius: 8px;
+    border: 1px solid #77767b;
+    box-shadow: 0 0 4px 0px rgba(0, 0, 0, 12.5);
+}
