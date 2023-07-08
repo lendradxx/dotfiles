@@ -2584,7 +2584,6 @@ StScrollBar StButton#hhandle:active {
   font-weight: bold;
   height: 1.86em;
   transition-duration: 250ms;
-  border-top: 2px solid white;
 }
 
 #panel.unlock-screen,
@@ -6999,7 +6998,13 @@ login-dialog StEntry {
 
 /* Panel */
 #panel {
-  border-top: 1px solid #737373;
+  border-top: .5px solid #737373;
+}
+
+#panel.unlock-screen,
+#panel.login-screen {
+  background-color: transparent;
+  border: none;
 }
 
 /* Quick Toggle */
